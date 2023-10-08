@@ -1,6 +1,6 @@
 trigger:
  - main
-pool: default
+pool: azure-pipelines
 
 variables:
   buildConfiguration: 'Release'

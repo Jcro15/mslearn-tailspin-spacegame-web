@@ -1,6 +1,6 @@
 trigger:
  - main
-pool: MyAgentPool
+pool: default
 
 variables:
   buildConfiguration: 'Release'
